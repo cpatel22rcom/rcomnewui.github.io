@@ -1,0 +1,19 @@
+## [0.0.6] - 2024-01-22
+### Added
+- feat: CR026 (auto scroll behavior)
+- feat: CR023 (moment updated)
+- feat: CR010 (top reserve btn functionality)
+- feat: CR032 - header logo size reduced
+- feat: CR018 (Check Rates button functionality)
+- feat: CR033 (bell icon removed from buttons)
+- feat: CR034 (fonts loading improvement)
+- feat: Schemas added (SEO)
+- feat: CR036 (HELPFUL INFO & FAQS changes)
+- feat: CR037 (links section changes)
+- feat: CR021 CHECK CURRENT ROOM RATES card functionality - display cards according to the query parameters
+- feat: CR020 Update the QS Parameters section
+### Fixed
+- fix: slider border radius fix
+- fix: Mobile footer links added
+- fix: See rooms & rates button functionality added
+- fix: Initial loading of the page now takes some time
